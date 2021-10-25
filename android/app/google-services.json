@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "620243148239",
+    "firebase_url": "https://inamari-taxi-default-rtdb.firebaseio.com",
+    "project_id": "inamari-taxi",
+    "storage_bucket": "inamari-taxi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620243148239:android:4860654fc2cb45704846ba",
+        "android_client_info": {
+          "package_name": "com.example.inamari"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620243148239-nqlkc165na1ujrudhihkbkff156pf356.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADy_tfmAvjvDcGi7Fao0GgzJiIztFLnwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620243148239-nqlkc165na1ujrudhihkbkff156pf356.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "620243148239-6t6geodo1muv5oqiakdp5c7lubgkbsfq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mubarak.inamaritaxi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
