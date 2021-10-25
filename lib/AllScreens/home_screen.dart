@@ -82,7 +82,7 @@ class _HomeScreenState extends State<HomeScreen> {
                         mainAxisAlignment: MainAxisAlignment.center,
                         children: const [
                           Text(
-                            "Profile Name",
+                            "Mubarak Shabel",
                             style: TextStyle(
                                 fontSize: 16.0, fontFamily: "Brand Bold"),
                           ),
